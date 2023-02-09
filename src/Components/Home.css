@@ -1,0 +1,9 @@
+.col {
+    border:"5px solid black";
+    text-align: center;
+    margin-top: 5px;
+}
+
+p {
+    margin: 0px
+}

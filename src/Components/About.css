@@ -1,0 +1,11 @@
+.about-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: "Gill Sans MT";
+    font-size: 18px;
+}
+
+body {
+    background-color: #5B8FB9;
+}
